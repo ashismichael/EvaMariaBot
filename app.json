@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "repository": "https://telegram.dog/XTZ_HerokuBot?start=YXNoaXNtaWNoYWVsL0V2YU1hcmlhQm90IG1hc3Rlcg",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
